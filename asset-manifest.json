@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moviemania/static/css/main.f82bd707.css",
+    "main.js": "/moviemania/static/js/main.1ffbf073.js",
+    "static/js/453.2abc1c4d.chunk.js": "/moviemania/static/js/453.2abc1c4d.chunk.js",
+    "index.html": "/moviemania/index.html",
+    "main.f82bd707.css.map": "/moviemania/static/css/main.f82bd707.css.map",
+    "main.1ffbf073.js.map": "/moviemania/static/js/main.1ffbf073.js.map",
+    "453.2abc1c4d.chunk.js.map": "/moviemania/static/js/453.2abc1c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82bd707.css",
+    "static/js/main.1ffbf073.js"
+  ]
+}
